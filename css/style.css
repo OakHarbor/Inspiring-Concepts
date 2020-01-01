@@ -139,7 +139,7 @@
 
 .first-box p:nth-child(2) {
     color: var(--primary);
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 900;
 }
 
